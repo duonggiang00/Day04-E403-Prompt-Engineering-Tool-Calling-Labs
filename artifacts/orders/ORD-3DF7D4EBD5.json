@@ -1,0 +1,36 @@
+{
+  "order_id": "ORD-3DF7D4EBD5",
+  "created_at": "2026-06-01",
+  "status": "confirmed",
+  "customer": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "shipping_address": ""
+  },
+  "items": [
+    {
+      "product_id": "MS-001",
+      "sku": "LOG-PEBBLE2-M350S",
+      "name": "Logitech Pebble 2 M350s",
+      "category": "mouse",
+      "quantity": 1,
+      "unit_price": 690000,
+      "line_total": 690000
+    }
+  ],
+  "pricing": {
+    "currency": "VND",
+    "subtotal": 690000,
+    "discount_rate": 0.1,
+    "discount_amount": 69000,
+    "final_total": 621000
+  },
+  "discount": {
+    "campaign_code": "",
+    "customer_tier": "standard"
+  },
+  "notes": "",
+  "save_path": "artifacts\\orders\\ORD-3DF7D4EBD5.json",
+  "source": "llm-order-agent"
+}
